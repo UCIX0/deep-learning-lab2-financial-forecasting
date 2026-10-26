@@ -12,12 +12,6 @@ __pycache__/
 checkpoints/*.pt
 *.pth
 
-# Datos locales descargables / temporales
-data/*.csv
-
-# Figuras y reportes generados dinámicamente (opcional)
-figures/*.png
-
 # Archivos del sistema y de editores
 .DS_Store
 .vscode/
