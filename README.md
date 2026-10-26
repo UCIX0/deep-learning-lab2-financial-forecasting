@@ -21,8 +21,8 @@ El proyecto resuelve el problema de la no-estacionariedad de los precios operand
 ```text
 .
 ├── checkpoints/          # [Ignorado en Git] Checkpoints binarios (.pt) guardados por EarlyStopping
-├── data/                 # [Ignorado en Git] Archivos CSV descargados vía yf.Ticker()
-├── figures/              # [Ignorado en Git] Gráficas exportadas a 300 DPI (fig01a a fig07)
+├── data/
+├── figures/
 ├── proyecto3Teorico.ipynb# Jupyter Notebook principal con la suite experimental ejecutable
 ├── proyecto3Teorico.md   # Informe técnico y teórico detallado
 ├── requirements.txt      # Dependencias exactas del entorno de desarrollo
